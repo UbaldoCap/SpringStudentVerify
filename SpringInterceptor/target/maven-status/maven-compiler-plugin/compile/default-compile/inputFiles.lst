@@ -1,0 +1,8 @@
+C:\Users\uby17\Desktop\Spring Boot\SpringInterceptor\src\main\java\com\example\SpringInterceptor\configure\AppConfig.java
+C:\Users\uby17\Desktop\Spring Boot\SpringInterceptor\src\main\java\com\example\SpringInterceptor\entities\Student.java
+C:\Users\uby17\Desktop\Spring Boot\SpringInterceptor\src\main\java\com\example\SpringInterceptor\SpringInterceptorApplication.java
+C:\Users\uby17\Desktop\Spring Boot\SpringInterceptor\src\main\java\com\example\SpringInterceptor\controllers\StudentController.java
+C:\Users\uby17\Desktop\Spring Boot\SpringInterceptor\src\main\java\com\example\SpringInterceptor\interceptor\LoggingInterceptor.java
+C:\Users\uby17\Desktop\Spring Boot\SpringInterceptor\src\main\java\com\example\SpringInterceptor\services\StudentService.java
+C:\Users\uby17\Desktop\Spring Boot\SpringInterceptor\src\main\java\com\example\SpringInterceptor\interceptor\StudentInterceptor.java
+C:\Users\uby17\Desktop\Spring Boot\SpringInterceptor\src\main\java\com\example\SpringInterceptor\repositories\StudentRepo.java
